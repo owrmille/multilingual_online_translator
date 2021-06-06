@@ -5,9 +5,9 @@ The goal of my program is to find translations and example sentences for a given
 
 This program act as if it visits the website for you. The correct URL with the word you type is generated, determine the translation direction, and send the URL to the website. After getting to the needed page, the program should extract the required data: translations and sentences with usage examples. The program access this text via CSS classes and tags. 
 
-*There are two versions here:
-translator_1.py
-translator_2.py*
+There are two versions here:
+* translator_1.py
+* translator_2.py
 
 In **version 1 (translator_1.py)** you need to enter the language from which the word is translated, the language into which the word is translated, and the word itself to be translated.
 
